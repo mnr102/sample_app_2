@@ -1,12 +1,7 @@
 # Ignore bundler config.
 /.bundle
 
-/.idea
-/.idea/*
-./idea/*
 .idea
-.secret
-.idea/workspace.xml
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
